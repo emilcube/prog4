@@ -14,7 +14,7 @@ namespace _4lab
             {
         this.text=text;
             this.x=x;
-            this.y=y;
+            this.y = y;
             }
 
     }
