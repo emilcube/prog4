@@ -18,6 +18,7 @@ namespace _4lab
         public void AddView(IView v)
         {
             views.Add(v);
+            //
         }
 
         public void Remove()
