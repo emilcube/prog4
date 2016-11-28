@@ -10,6 +10,8 @@ namespace _4lab
     {
 
         void SetModel(IModel m);
-        void AddView();
+        void AddView(IView v);
+        void Add();
+        void Remove();
     }
 }
